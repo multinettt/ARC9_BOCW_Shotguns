@@ -4,8 +4,6 @@
 
 Alright shotguns it is. 2 launch shotguns will be here.
 
-## [ARC9 BOCW Shotguns on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3417430212)
-
 ## You need to have [Shared Content](https://github.com/multinettt/ARC-9_BOCW_Shared_Content) in order to avoid missing textures, materials and sounds.
 
 ## [BOCW Attachments](https://github.com/multinettt/ARC-9_BOCW_Attachments)
